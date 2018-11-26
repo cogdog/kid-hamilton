@@ -1,0 +1,17 @@
+/*
+Theme Name:     Kid Hamilton
+Theme URI:      https://github.com/cogdog/kid-hamilton
+Description:    Child theme for Hamilton theme by Anders Noren with a few mods for customizing
+Author:         Alan Levine
+Author URI:     http://cog.dog
+Template:       hamilton
+Version:        0.3
+*/
+
+/* we no longer use @import for parent style, it's enqueued in functions.php */
+
+.site-footer img { 
+	display: initial;
+}
+
+
